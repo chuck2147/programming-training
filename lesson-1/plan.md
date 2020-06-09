@@ -10,6 +10,7 @@
 - What is coding, who has experience coding
 - No copy pasting
 - I demonstrate how to write a hello world program (println)
+- Comments
 - Variables, Ints, Booleans, Strings, Assignment, Reassignment, Referencing variables
 - If/Else, Checking equals, comparison operators
 - Together we write Is It Prime program (while loops)
