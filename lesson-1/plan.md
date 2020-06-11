@@ -1,9 +1,9 @@
 # Lesson 1: June 10 - How to tell the computer what you want it to do
 
 ## Learning objectives:
-  - Learn base programming concepts (variables, if/else, while/for loops)
-  - Learn steps to make the computer run your code
-  - Learn and practice what to do when you get stuck
+- Learn base programming concepts (variables, if/else, while/for loops)
+- Learn steps to make the computer run your code
+- Learn and practice what to do when you get stuck
 
 ## Steps
 - No FRC today
@@ -30,3 +30,4 @@
 - Don't stress about this. If you get frustrated, take a break and post on slack what you are stuck on.
 - Don't look up how to code a fibonacci number generator. You are trying to learn how to solve problems, and seeing how someone else solves it won't help you practice solving it.
 - Next week, each person will tell us one thing you got stuck on but figured out.
+
