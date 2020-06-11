@@ -1,6 +1,6 @@
 class HelloWorld {
   public static void main(String args[]) {
-    outputs "hello world"
+    // outputs "hello world"
     System.out.println("Hello World");
 
     int number = 1;;
