@@ -25,18 +25,18 @@
 - GitHub: Version Control Host (uses git)
 - VS Code
 - Git terms:
-  - Repo/Repository:
-  - Clone:
-  - Commit:
+  - Repo/Repository: Single code project
+  - Clone: Download a repository
+  - Commit: Checkpoint
     - Commit Messages
-  - Pull:
-  - Push:
-  - Merge Conflict:
-  - Branch:
+  - Pull: Sync the changes from github to your computer
+  - Push: Sync the changes from your computer to github
+  - Merge Conflict: When there are two different copies of code that you are trying to merge together, but they have changes that conflict with each other
+  - Branch: A sort of copy of the repository where you implement a feature, before you merge it into the main branch
 - GitHub terms:
-  - Pull Request/PR:
-  - Review:
-    - Diff:
+  - Pull Request/PR: After you push a branch to github, you create a pull request so other people can review it and then so the code can get merged into the main branch.
+  - Code Review: Looking at someone else's code so both people can understand and improve it
+    - Diff: Changes between two branches (or two commits)
     - Example: https://github.com/cloudfour/cloudfour.com-patterns/pull/716
 
 ## Assignment: Set up your computer and push your code to GitHub
@@ -71,4 +71,10 @@ You're probably going to run into some problem while doing these steps because y
 - Clone the repository to your computer. The instructions are [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) (make sure to select the right OS so it gives you the right instructions)
 - Once the repo is cloned, open VS Code to the folder where you have cloned the repo. You can run `code .` to do this automatically
 - In VS Code, create files for each of the previous assignments. Paste the code for the projects into those files. Then compile and run the code with Java to make sure it is working.
-- Stage the new files and commit them
+  To run the files:
+  - First you will have to change the classes from `public class` to just `class`
+  - Then you can save them
+  - Then compile it. In VS Code open up the integrated terminal with ctrl+\`. In the terminal run `javac NAME_OF_YOUR_FILE.java`
+  - Then run it. In the integrated terminal run `java NAME_OF_YOUR_MAIN_CLASS` (like `java Main`)
+- Stage the new files and commit them in VS Code. Use the version control panel on the left to do that.
+- Push the changes to github. Use the sync button in vs code in the bottom left.
