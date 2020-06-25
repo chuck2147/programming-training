@@ -21,8 +21,8 @@
   - `cd`: Change Directory. Go to a different folder
   - `pwd`: Print Working Directory. Prints out which folder you are currently in
   - `ls`: List out all the files and folders in the current folder
-- Git:
-- GitHub:
+- Git: Version Control System
+- GitHub: Version Control Host (uses git)
 - VS Code
 - Git terms:
   - Repo/Repository:
