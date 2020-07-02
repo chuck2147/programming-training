@@ -32,7 +32,6 @@ https://docs.google.com/presentation/d/1DMnYFLyz0EjU2y-Ns822LVBbh_M2LvYH3f0abqQP
 
 Suggestions (you don't have to use one of these, you can find your own if you want):
 
-- 254 in 2018
 - 2056 in 2016
 - 971 in 2019
 - 118 in 2018
@@ -44,7 +43,6 @@ Suggestions (you don't have to use one of these, you can find your own if you wa
 - 2046 in 2018
 
 More complicated motion control:
-- 971 in 2018
 - 254 in 2019
 
 - Look on https://www.thebluealliance.com/ for robot videos, search for the team, select the year dropdown, watch their reveal video if they have one, or a match video.
