@@ -13,7 +13,7 @@
   - All the robot code is in src/main/java/frc/robot
 - `./gradlew build`
 - "WPILib: Set VS Code Java Home to FRC Home" then restart
-- Stage code in git
+- Stage/commit code in git
 - Init vs Periodic methods
   - if vs while loops in periodic methods
 - Demo motor control code in Robot.java - Spark and SpeedController
@@ -35,6 +35,7 @@
 - Program all the parts of the robot with manual control.
   - I would recommend using Subsystems and Commands rather than putting everything into Robot.java, but it is up to you.
   - You will probably need to reference the [Command Based Programming](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html) documentation. If you have any questions feel free to ask me
+- This is probably a bigger project than the previous assignments. If it feels like you are spending more time on it than you want to be, let me know and we can reduce it.
 - We don't have a way to test your code, so that makes it really hard to know if your code will work
 - At the very least you should be able to build it with `./gradlew build`
 - Create a new repository on GitHub (follow instructions from a couple weeks ago) and commit and push your changes there. Let me know if you need help, I can put more instructions here.
