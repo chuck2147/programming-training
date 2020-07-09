@@ -28,6 +28,8 @@
 - Command groups: https://github.com/chuck2147/FRC-2020/blob/master/src/main/java/frc/robot/commands/autonomous/TrenchAuto.java
   - Add auto mode command to example robot
 
+Here is the code from this week: https://github.com/calebeby/example-robot
+
 ## Assignment: Program part of a robot
 - Set up wpilib stuff on your computer (I listed which things to install above, tell me if you have questions)
 - Initialize a new project
