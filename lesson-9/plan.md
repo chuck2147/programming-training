@@ -1,4 +1,4 @@
-# Lesson 9: August 5: 2910 code + swerve
+# Lesson 9: August 12: 2910 code + swerve
 
 ## Steps
 - Install + set up https://github.com/FRCTeam2910/Common
